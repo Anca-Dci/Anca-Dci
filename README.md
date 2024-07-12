@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [a few projects](on my work GitHub account)
 
-- 🌱 I’m currently learning **SaSS and Teilwind.**
+- 🌱 I’m currently learning **SaSS and Tailwind.**
 
 - 👯 I’m looking to collaborate on [creating user-friendly startup projects for people like Me, who are starting their journey](in IT, front end, back end, devops, etc.)
 
